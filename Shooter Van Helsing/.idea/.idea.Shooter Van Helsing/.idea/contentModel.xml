@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mhern\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mhern\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Shooter Van Helsing.-1246759255.00" t="ExcludeRecursive" />
+    <e p="D:\Shooter-Van-Helsing\Shooter Van Helsing" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="LunarConsole" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AndroidPlugin.cs" t="Include" />
+            <e p="Autorun.cs" t="Include" />
+            <e p="BuildPostProcessor.cs" t="Include" />
+            <e p="Compatibility.cs" t="Include" />
+            <e p="EditorConstants.cs" t="Include" />
+            <e p="Installer.cs" t="Include" />
+            <e p="Legacy" t="Include">
+              <e p="LunarConsoleLegacyActionsEditor.cs" t="Include" />
+            </e>
+            <e p="Log.cs" t="Include" />
+            <e p="LunarConsoleActionEditor.cs" t="Include" />
+            <e p="LunarConsoleEditor.cs" t="Include" />
+            <e p="LunarConsoleEditorAnalytics.cs" t="Include" />
+            <e p="LunarConsoleHttpClient.cs" t="Include" />
+            <e p="MenuItems.cs" t="Include" />
+            <e p="SimpleJSON.cs" t="Include" />
+            <e p="UI" t="Include">
+              <e p="ActionsAndVariablesWindow.cs" t="Include" />
+            </e>
+            <e p="Updater.cs" t="Include" />
+            <e p="Utils.cs" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Actions" t="Include">
+              <e p="CAction.cs" t="Include" />
+              <e p="CRegistry.cs" t="Include" />
+              <e p="CVar.cs" t="Include" />
+            </e>
+            <e p="Constants.cs" t="Include" />
+            <e p="Legacy" t="Include">
+              <e p="LunarConsoleLegacyActions.cs" t="Include" />
+            </e>
+            <e p="LunarConsole.cs" t="Include" />
+            <e p="LunarConsoleAction.cs" t="Include" />
+            <e p="Utils" t="Include">
+              <e p="BaseList.cs" t="Include" />
+              <e p="ClassUtils.cs" t="Include" />
+              <e p="ColorUtils.cs" t="Include" />
+              <e p="FileUtils.cs" t="Include" />
+              <e p="Iterator.cs" t="Include" />
+              <e p="Log.cs" t="Include" />
+              <e p="ReflectionUtils.cs" t="Include" />
+              <e p="StringUtils.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Standard Assets" t="Include">
+          <e p="Utility" t="Include">
+            <e p="FPSCounter.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Shooter Van Helsing.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Medieval Environment/Demos/Demo1/scene1.unity
+    guid: 9be780e133eb3434a98449c2a82204d8
   m_configObjects: {}
