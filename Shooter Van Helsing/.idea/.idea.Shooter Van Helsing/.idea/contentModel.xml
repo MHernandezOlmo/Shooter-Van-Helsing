@@ -57,6 +57,7 @@
             </e>
           </e>
         </e>
+        <e p="NewSurfaceShader.shader" t="Include" />
         <e p="Standard Assets" t="Include">
           <e p="Utility" t="Include">
             <e p="FPSCounter.cs" t="Include" />
